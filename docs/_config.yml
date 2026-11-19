@@ -1,0 +1,39 @@
+title: Beauzead Ltd HR Demo
+description: User guide for the Beauzead Ltd HR management demo
+theme: just-the-docs
+
+url: https://alfredang.github.io
+baseurl: /ai-hrms
+
+# Aux links (top right)
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/alfredang/ai-hrms"
+
+# Navigation structure
+nav_sort: case_insensitive
+
+# Footer
+footer_content: "Beauzead Ltd HR management demo."
+
+# Color scheme
+color_scheme: light
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Last edit timestamp
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+# Heading anchor links
+heading_anchors: true
